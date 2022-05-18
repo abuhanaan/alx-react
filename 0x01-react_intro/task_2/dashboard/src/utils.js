@@ -10,3 +10,10 @@ export const getFooterCopy = (isIndex) => {
     }
 }
 
+
+export const getLatestNotification = () => {
+  return (
+        '<strong>Urgent requirement</strong> - complete by EOD'
+  )
+}
+
