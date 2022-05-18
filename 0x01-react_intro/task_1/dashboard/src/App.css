@@ -1,0 +1,55 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  display: flex;
+  border: 1px solid #fff;  /* For debugging */
+    width: 900px;
+  justify-content: flex-start;
+  font-size: calc(10px + 2vmin);
+  padding: 20px;
+}
+
+.App-header h1 {
+  color: rgb(230, 78, 78);
+}
+
+
+hr {
+  border: 1px solid red;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-footer {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+
+.App-footer p{
+  width: 100%;
+  text-align: center;
+  font-style: italic;
+}
+
+.my-body {
+  display: flex;
+  min-height: 300px;
+  width: 5000px;
+  align-items: flex-start;
+  flex-direction: row;
+}
+
+.my-body body p {
+  margin-left: 10px;
+}
+
