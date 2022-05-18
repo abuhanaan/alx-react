@@ -9,7 +9,7 @@ function App() {
         <h1>School dashboard</h1>
       </header>
       <hr/>
-      <div className='my-body'>
+      <div className='App-body'>
         <body>
           <p>Login to access the full dashboard</p>
         </body>

@@ -42,7 +42,7 @@ hr {
   font-style: italic;
 }
 
-.my-body {
+.App-body {
   display: flex;
   min-height: 300px;
   width: 5000px;
@@ -50,7 +50,7 @@ hr {
   flex-direction: row;
 }
 
-.my-body body p {
+.App-body body p {
   margin-left: 10px;
 }
 
